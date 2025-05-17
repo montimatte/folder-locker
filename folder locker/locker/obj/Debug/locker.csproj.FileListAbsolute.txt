@@ -1,0 +1,10 @@
+E:\codici\locker\locker\bin\Debug\locker.exe.config
+E:\codici\locker\locker\bin\Debug\locker.exe
+E:\codici\locker\locker\bin\Debug\locker.pdb
+E:\codici\locker\locker\obj\Debug\locker.csproj.AssemblyReference.cache
+E:\codici\locker\locker\obj\Debug\locker.Form1.resources
+E:\codici\locker\locker\obj\Debug\locker.Properties.Resources.resources
+E:\codici\locker\locker\obj\Debug\locker.csproj.GenerateResource.cache
+E:\codici\locker\locker\obj\Debug\locker.csproj.CoreCompileInputs.cache
+E:\codici\locker\locker\obj\Debug\locker.exe
+E:\codici\locker\locker\obj\Debug\locker.pdb
